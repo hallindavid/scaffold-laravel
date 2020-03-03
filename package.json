@@ -1,0 +1,15 @@
+{
+  "name": "scaffold-laravel",
+  "version": "1.0.0",
+  "description": "an op which will allow you to quickly create a laravel project and pull in common packages (auth, telescope, blueprint etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cto.ai/sdk": "^2.0.1"
+  }
+}
