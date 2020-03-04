@@ -6,9 +6,9 @@ commands:
     description: an op which will allow you to quickly create a laravel project and pull in
       common packages (auth, telescope, blueprint etc)
     run: node /ops/index.js
-    remote: true
+    remote: false
     sdk: "2"
-    sourceCodeURL: ""
+    sourceCodeURL: "https://github.com/hallindavid/scaffold-laravel"
     env:
       - "MY_ENV_VAR=$MY_ENV_VAR"
       - "MY_ACCESS_TOKEN=$MY_ACCESS_TOKEN"

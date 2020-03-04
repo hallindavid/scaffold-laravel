@@ -6,4 +6,4 @@ echo "deb https://packages.sury.org/php/ stretch main" | tee /etc/apt/sources.li
 apt-get update && apt-get install -y php7.2 php7.2-xml php7.2-gd php7.2-opcache php7.2-mbstring php7.2-zip curl git unzip libz-dev
 curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer 
 
-composer global require laravel/installer -q
+composer global require laravel/installer
