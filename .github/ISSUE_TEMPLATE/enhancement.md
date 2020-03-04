@@ -6,24 +6,12 @@ assignees: ''
 ---
 
 # Enhancement Request
+This is a good place to request an enhancement - different way to do things, or increased depth of an existing package pull etc.  Please describe what you'd like as an enhancement here.
 
-Please provide more information about this ticket.
 
-## Desired Behavior
 
-Please describe the how you would expect this enhancement to behave.
-
-## Capabilities
-
-- [ ] Capability 1
-- [ ] Capability 2
-- [ ] ...
 
 ## Prerequisites
 
 Please answer the following questions for yourself before submitting an issue.
-
-- [ ] I'm reporting the issue to the correct repository.
-- [ ] I've checked the documentation and found no answer.
-- [ ] I've checked to make sure that this issue has not already been filed.
 - [ ] I've named a clear and solution focused title.
